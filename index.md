@@ -13,4 +13,4 @@
   Die App benötigt keine Internetverbindung und überträgt keine Daten.
 
   ## Kontakt
-  Bei Fragen: n3dzi2@gmail.com
+  Bei Fragen: tv21@me.com
